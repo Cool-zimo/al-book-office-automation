@@ -1,0 +1,7 @@
+{
+  "book": "office-automation",
+  "chapters": [
+    {"title": "Chapter 1 · Batch File Processing", "lessons": ["01", "02", "03", "04", "05"], "test": "test-01"},
+    {"title": "Chapter 2 · Batch Spreadsheet Processing", "lessons": ["06", "07", "08", "09", "10"], "test": "test-02"}
+  ]
+}

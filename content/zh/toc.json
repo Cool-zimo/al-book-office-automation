@@ -1,0 +1,7 @@
+{
+  "book": "office-automation",
+  "chapters": [
+    {"title": "第 1 章 · 文件批处理", "lessons": ["01", "02", "03", "04", "05"], "test": "test-01"},
+    {"title": "第 2 章 · 表格批处理", "lessons": ["06", "07", "08", "09", "10"], "test": "test-02"}
+  ]
+}
